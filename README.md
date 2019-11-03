@@ -1,2 +1,2 @@
-# -Sapozhnikov_N
+# Sapozhnikov_N
  Student: Sapozhnikov N
